@@ -16,7 +16,6 @@ This dataset powers the comparison table at https://theresortfee.com/, where eac
 | `resort_fee_usd` | Nightly resort fee in USD, before tax |
 | `resort_fee_with_tax_usd` | Nightly resort fee in USD, including the 13.38% Las Vegas lodging tax |
 | `year_verified` | Season the figure was verified for (figures are re-checked each season; 2026 rows are confirmed for the 2026 season) |
-| `source_type` | How the figure was sourced; blank where not recorded in this export |
 
 ## Usage
 
